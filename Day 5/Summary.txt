@@ -1,0 +1,22 @@
+Today session key points and topics:-
+API call
+	* Fetch method with DOM
+	* How to use Debugger,breakpoints
+	* Mutation/Modifiying during BP
+	* Console uses
+Databses and its types
+ECMAScript
+CSS Position
+NPM-Node Package Manager
+React example in CodeSandBox
+	* Created sample file
+	* Using paranthesis from add variable to jsx
+	* Adding array of objects in the form of list
+	* Adding array of objects in the form of table using bootstrap
+	* Adding array of objects in the form of card using bootstrap
+	* effect hook, state hooks
+	* Adding dynamic array using api call 
+
+
+ 
+	

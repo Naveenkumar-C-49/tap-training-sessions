@@ -1,0 +1,13 @@
+Today Session Key Points and Topics:-
+React
+ 1.UseEffects
+ 2.Props
+	- Sample program to check child
+	- Multiple use props in  child component
+ 3.  SetState()
+	- How to use event and state in react in only parent
+	- How to use event and state in react in child
+4. OMDB API
+	- How to call API and plot and search  data using React Strap
+	- Adding error and load handlers in previous example
+	- Adding details page with routes

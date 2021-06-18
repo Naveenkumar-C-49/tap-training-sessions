@@ -1,0 +1,9 @@
+Summary of Today's Session:
+Disadvantages of css
+Javascript Rreprocessors
+CSS preprocessors
+HTML preprocessors
+HTML,CSS(SCSS) cart exercise in Codepen
+Cart exercise with HTML, bootstrap
+Cart exercise with HTML, bootstrap, Javascript  with Local  data(Dynamic DOM Manipulation)
+API call with ExamplesCart exercise with HTML, bootstrap, Javascript  with data from API call (Dynamic DOM Manipulation)

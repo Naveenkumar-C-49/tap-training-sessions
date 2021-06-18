@@ -1,0 +1,117 @@
+# Morning Session
+
+## HTML CSS JS
+
+
+### JS Electron framework used for create bundle
+#### Three kinds of application
+	web gmail
+	desktop
+		Objective -C (swift) (apple)- Native
+		C# - Microsoft - Native
+		c,c++ - Native Windows
+		Java oracle one language - hybrid
+			use JVM	
+	Mobile
+		Objective -C (swift) (apple)- Native
+		C# - Microsoft - Native
+		Java oracle one language - hybrid
+			use JVM	
+
+''Web application
+	UI-FrontEnd-client side scripting application(Javascript)
+		Frameworks/libraries - react,Vue,Angular
+		library - Jquery,Lodash,underscore
+		markup - HTML
+		style sheet - CSS
+	Server side languauges - backend - (python,php,NodeJs,Ruby ,R, Golang,Java,C#,perl)
+		Frameworks 
+			Python - Flask, Django
+			PHP - Laravel, CodeIgniter
+			NodeJS - expressJS, Koa
+			Ruby - ruby on rails
+			Java - spring,hibernate
+''Code pen 
+	create account
+	check tranding for learing new modules 
+	sample program in html
+	heading and paragrapgh tags
+	
+
+Topics covered today are,
+1) Codepen software
+2) 3 types of applications
+ i)web applications
+ ii)desktop applcations
+ iii)mobile applications
+3)Web application
+FRONTEND - client side scripting
+Frontend frameworks - React, Vue, Angular
+Libraries - JQuery, Lodash, Underscore
+Markup language - HTML
+stylesheet - CSS
+BACKEND - Server side applications:
+languages - Python, PHP, NodeJS, Ruby, R, Golang, Java, C#, perl
+Frameworks:
+Python - Flash, Django
+PHP - Laraval, Code ignitor
+NodeJS - ExpressJS, Koa
+Ruby - Ruby on Rails
+Java - Spring, Hibernate
+4) Desktop applications
+Lanuages:
+Java by Oracle (applets, swing)  - HYBRID APPLICATION
+Objective C by swift, Apple iOS  - NATIVE APPLICATION
+C# by microsoft                  - NATIVE APPLICATION
+C, C++(open source)              - NATIVE APPLICATION
+JVM - Java Virtual Machine would need only less space RAM to process, avoids crashing
+Java is a high level language and founded by SUN microsystems
+After outdation of Java, JavaScript evolved, it uses electronic framework and uses bundles to process each data.
+5) Mobile Operating Systems:
+Windows developed by Microsoft,language used to develop is C#
+iOS developed by Apple,language used to develop is C swift
+Java developed by Google
+All these are NATIVE.
+6)JAVASCRIPT:
+Ionic framework - Apache Cordova
+React and Vue framework are NATIVE
+7) Dart belongs to FLUTTER framework.
+8)Developer stack:
+ i)MEAN stack:
+ M - MongoDB
+ E - ExpresssJS
+ A - Angular
+ N - NodeJS
+ ii)MERN stack:
+ M - MongoDB
+ E - ExpresssJS
+ R - React
+ N - NodeJS
+ iii)PERN stack:
+ P - Postgress
+ E - ExpresssJS
+ R - React
+ N - NodeJS
+9)JavaScript:
+JavaScript is not a language
+System understands BINARY language
+Browser understands JavaScript
+Rust is the most using language and uses DENOJS platform
+10)Types of Developers:
+Frontend, backend, full stack and polyglot developers
+11)Roles:
+	i)Developers
+	ii)QA's
+		a)manual QA Engineers
+		b)automation QA Engineers
+	iii)Project manager
+	iv)DevOps engineer works on server management and manages VCS, CI server, APP server, Web server and cache server
+	v)support engineer
+		a)Chat support engineer
+		b)L1 support engineer
+		c)L2 support engineer
+		d)L3 support engineer	
+	vi)Data Engineer
+	vii)Database admin
+
+	

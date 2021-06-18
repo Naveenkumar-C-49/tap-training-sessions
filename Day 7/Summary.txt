@@ -1,0 +1,21 @@
+Today Session key points and Topics :-
+Node Js
+
+* lightweight
+* asynchronous
+* single thread non blocking architecture
+* for acheiving multi thread - using cluster
+* used to build scalable network applicationbon server side
+* event-driven
+
+Package.json file and its importance
+Http Module basics
+REPLIT - Node js
+* create directory and file
+* read directory and segregate files
+* How to get extension from file path
+* How to import  export the functions
+* http methods
+* lodash basics
+* Moment basics
+* express - morgan(middle ware)

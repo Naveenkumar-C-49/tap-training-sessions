@@ -1,0 +1,12 @@
+Today Session key points and Topics :-
+Node Js
+How to use append and write files in directories
+Scopes and callback hell, sync methods in node js
+promises
+Create basic server using express js
+create a server with routes, DB
+Destucturing with aliasing, random id generation,
+Http methods using express,node JS, bodyParser
+Nodemon module
+Dotenv module
+work flow of program after using above modules

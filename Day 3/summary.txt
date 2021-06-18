@@ -1,0 +1,19 @@
+Good Morning All,
+Today's Morning session topics and key points :-
+Three types of application
+Languages used in each application
+Framework,libraries used in each languages
+Operating systems based on industry
+Roles and responsiblity of each roles in organization
+Types of Stack development(MEAN,MERN,PERN)
+Software Engineering Practices
+Why Typescript is used?
+
+Good Evening All, 
+Today's Afternoon session topics and key points:-
+JavaScript basics
+Types of datatypes
+Call by value and call by refference
+Array, Object, Array of objects, JSON
+Data Manipulation methods in JS
+Types of notation used in objects

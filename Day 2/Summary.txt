@@ -1,0 +1,11 @@
+Topics and Key points discussed in today's session :-
+Version control systems and types available for use
+Centralized version control system
+Distributed version control system
+Install git for System
+Create Github account
+Git Basics
+How to push code from local machine to Github Repository
+How to fork a repository, make changes and send pull request to merge in main repository
+How to branch a repository , make changes and send pull request to merge in main branch
+How to use VS code for cloning,updating and push the code to Github Repository
